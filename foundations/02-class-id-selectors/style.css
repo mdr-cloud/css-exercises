@@ -1,0 +1,16 @@
+#one {
+    font-size: 36px;
+    color: #0000ff;
+}
+.odd.cooler,
+#two {
+    font-size: 24px;
+}
+
+.odd {
+    background-color: #ff9185;
+}
+#two {
+    background-color: #9dff9d;
+    font-weight: bold;
+}
